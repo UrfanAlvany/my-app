@@ -1,7 +1,4 @@
-# Getting Started with Create React App
-
-if you wanna run, you should be sure you install npm and before starting you need write to the terminal
-
+#Requirements:
 ### npm i react-scripts
 
 ## Available Scripts
